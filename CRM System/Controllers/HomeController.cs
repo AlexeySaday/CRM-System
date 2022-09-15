@@ -4,10 +4,10 @@ namespace CRM_System.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> logger;
+        private readonly ILogger _logger;
         public HomeController(ILogger<HomeController> logger)
         {
-            this.logger = logger;
+            _logger = logger;
         }
         public IActionResult Index()
         {
