@@ -4,7 +4,7 @@ namespace CRM_System.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger logger;
+        private readonly ILogger<HomeController> logger;
         public HomeController(ILogger<HomeController> logger)
         {
             this.logger = logger;
