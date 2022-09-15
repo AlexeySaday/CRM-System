@@ -1,8 +1,8 @@
-﻿namespace CRM_System
+﻿namespace CRM_System.Models
 {
     public class Message
     {
-        public string Id { get;}
+        public string Id { get; }
         public string Name { get; set; }
         public string MessageText { get; set; }
         public Message(string name, string messageText)

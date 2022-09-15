@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ca96BmBYsYkea6Wt1JnWm2t/9fcbeI1Wy7icZx15J+w=",
+  "Hash": "EqHt6riibvh3zI4Ioj3VJGEkmQ5e13F47HC8IwHZ8bc=",
   "Source": "CRM System",
   "BasePath": "_content/CRM System",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\js\\ApiScript.js",
       "SourceId": "CRM System",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
       "BasePath": "_content/CRM System",
-      "RelativePath": "index.html",
+      "RelativePath": "js/ApiScript.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot\\js\\ApiScript.js"
     }
   ]
 }

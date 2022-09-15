@@ -20,3 +20,5 @@ C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.pdb
 C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.genruntimeconfig.cache
 C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\ref\CRM System.dll
 C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.staticwebassets.runtime.json
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.RazorAssemblyInfo.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.RazorAssemblyInfo.cs

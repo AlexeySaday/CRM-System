@@ -1,11 +1,17 @@
-using CRM_System;
+using CRM_System.Models;
 
 var builder = WebApplication.CreateBuilder(args); 
+builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
  
 app.UseStaticFiles();
 app.UseDefaultFiles();
+app.UseRouting();
+app.MapControllerRoute(
+        name:"default",
+        pattern:"{controller=Home}/{action=Index}/{id?}"
+    );;
 
 List<Message> messages = new List<Message>()
 {
