@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EqHt6riibvh3zI4Ioj3VJGEkmQ5e13F47HC8IwHZ8bc=",
+  "Hash": "Gja5YydYfHJ3BYWFKpFFwkRVstUp2Wg0q/iHmfO4rEk=",
   "Source": "CRM System",
   "BasePath": "_content/CRM System",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\css\\Style.css",
+      "SourceId": "CRM System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "BasePath": "_content/CRM System",
+      "RelativePath": "css/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
+    },
     {
       "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\js\\ApiScript.js",
       "SourceId": "CRM System",

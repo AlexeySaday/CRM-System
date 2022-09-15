@@ -2,8 +2,7 @@ using CRM_System.Models;
 
 var builder = WebApplication.CreateBuilder(args); 
 builder.Services.AddControllersWithViews();
-var app = builder.Build();
-
+var app = builder.Build(); 
  
 app.UseStaticFiles();
 app.UseDefaultFiles();
