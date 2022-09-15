@@ -1,0 +1,22 @@
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.exe
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.deps.json
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.runtimeconfig.json
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.pdb
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\scopedcss\bundle\CRM System.styles.css
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\refint\CRM System.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.pdb
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\ref\CRM System.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.staticwebassets.runtime.json

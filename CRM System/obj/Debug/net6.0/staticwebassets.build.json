@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ca96BmBYsYkea6Wt1JnWm2t/9fcbeI1Wy7icZx15J+w=",
+  "Source": "CRM System",
+  "BasePath": "_content/CRM System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRM System\\wwwroot",
+      "Source": "CRM System",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "BasePath": "_content/CRM System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\index.html",
+      "SourceId": "CRM System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "BasePath": "_content/CRM System",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
