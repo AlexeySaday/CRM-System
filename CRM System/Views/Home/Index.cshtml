@@ -30,29 +30,33 @@ async function getMessage(){
 function row(message) {
 
     const tr = document.createElement("tr"); 
-    tr.setAttribute("data-row-id", message.id);
-    //idTd.append(message.id);
-    //tr.append(idTd); 
-
-    const idTd = document.createElement("td");
-    idTd.append(message.id);
-    tr.append(idTd);
-
-    const dateTd = document.createElement("td");
-    dateTd.append(message.appDate);
-    tr.append(dateTd);
-
-    const nameTd = document.createElement("td");
-    nameTd.append(message.name);
-    tr.append(nameTd);
-
-    const textTd = document.createElement("td");
-    textTd.append(message.messageText);
-    tr.append(textTd); 
+    tr.setAttribute("data-row-id", message.id); 
+    let td;
+    Object.keys(message).forEach(el => {
+        td = document.createElement("td");
+        td.append(message.el);
+        tr.append(td);
+    });
     
-    const contactTd = document.createElement("td");
-    contactTd.append(message.contact);
-    tr.append(contactTd);
+    //const idTd = document.createElement("td");
+    //idTd.append(message.id);
+    //tr.append(idTd);
+
+    //const dateTd = document.createElement("td");
+    //dateTd.append(message.appDate);
+    //tr.append(dateTd);
+
+    //const nameTd = document.createElement("td");
+    //nameTd.append(message.name);
+    //tr.append(nameTd);
+
+    //const textTd = document.createElement("td");
+    //textTd.append(message.messageText);
+    //tr.append(textTd); 
+    
+    //const contactTd = document.createElement("td");
+    //contactTd.append(message.contact);
+    //tr.append(contactTd);
 
     return tr;
 }
