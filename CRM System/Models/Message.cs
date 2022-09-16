@@ -2,10 +2,10 @@
 {
     public class Message
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
-        public string MessageText { get; set; } 
-        public DateTime AppDate { get; set; }
+        public string Text { get; set; } 
+        public string AppDate { get; set; }
         public string Contact { get; set; }
     }
 }

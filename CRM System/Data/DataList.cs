@@ -10,8 +10,8 @@ namespace CRM_System.Data
         {
             Messages = new List<Message>()
             {
-                new() {Id = Guid.NewGuid().ToString(), AppDate=DateTime.Now, Contact="petrov@mail.ru", MessageText="Подать заявку", Name = "Иван Птеров"},
-                new() {Id = Guid.NewGuid().ToString(), AppDate=DateTime.Now, Contact="ivanov@mail.ru", MessageText="Встреча с консультантом", Name = "Григорий Иванов"}
+                new() {Id = 1, AppDate=DateTime.Now.ToString(), Contact="petrov@mail.ru", Text="Подать заявку", Name = "Иван Птеров"},
+                new() {Id = 2, AppDate=DateTime.Now.ToString(), Contact="ivanov@mail.ru", Text="Встреча с консультантом", Name = "Григорий Иванов"}
             };
         }
         public IEnumerable<Message> GetMessages()
