@@ -3,8 +3,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
-    <link rel="stylesheet" href="~/js/ApiScript.js"/>
+    <title>@ViewBag.Title</title>  
     <link rel="stylesheet" href="~/css/Style.css"/>
 </head>
 <body>
@@ -16,7 +15,13 @@
         <a>Контакты</a> 
     </div>
     <div>
+
         @RenderBody()
+        <script>
+            getMessage()
+        </script>
     </div>
+
+     
 </body>
 </html>

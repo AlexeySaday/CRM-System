@@ -1,5 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using CRM_System.IDataModel;
+using CRM_System.Models; 
+using Microsoft.AspNetCore.Mvc; 
 
 namespace CRM_System.Controllers
 {
@@ -7,5 +8,15 @@ namespace CRM_System.Controllers
     [ApiController]
     public class RequestController : ControllerBase
     {
+        private readonly IAppData data;
+        public RequestController(IAppData data)
+        {
+            this.data = data;
+        }
+        [HttpGet]
+        public ActionResult<IEnumerable<Message>> Get()
+        {
+            return data.GetMessages().ToList();
+        }
     }
 }

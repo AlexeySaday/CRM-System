@@ -22,3 +22,10 @@ C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\ref\CRM System.d
 C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\CRM System.staticwebassets.runtime.json
 C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.RazorAssemblyInfo.cache
 C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.RazorAssemblyInfo.cs
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\obj\Debug\net6.0\CRM System.csproj.CopyComplete
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Hp\source\repos\CRM System\CRM System\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
