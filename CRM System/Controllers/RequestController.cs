@@ -1,6 +1,7 @@
 ﻿using CRM_System.IDataModel;
 using CRM_System.Models; 
-using Microsoft.AspNetCore.Mvc; 
+using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace CRM_System.Controllers
 {
@@ -17,6 +18,11 @@ namespace CRM_System.Controllers
         public ActionResult<IEnumerable<Message>> Get()
         {
             return data.GetMessages().ToList();
+        }
+        [HttpGet("{date}")]
+        public ActionResult<IEnumerable<Message>> Get(string date)
+        {
+            return data.GetMessages().Where(e => e.AppDate == date).ToList();
         }
     }
 }

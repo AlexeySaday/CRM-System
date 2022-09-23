@@ -9,7 +9,9 @@ namespace CRM_System.Data
         private PostDatabase context; 
         public PostrgreDb(PostDatabase context)
         { 
-            this.context = context; 
+            this.context = context;
+            //context.Add(new Message() { AppDate = DateTime.Now.ToString("yyyy-MM-dd"), Contact = "petrov@mail.ru", Text = "Подать заявку", Name = "Иван Птеров" });
+           // context.SaveChanges();
         }
         public IEnumerable<Message> GetMessages()
         { 

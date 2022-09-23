@@ -7,21 +7,17 @@
     <link rel="stylesheet" href="~/css/Style.css"/>
 </head>
 <body>
-    <div class="header-style"> 
-        <a>Главное</a>
-        <a>Услуги</a>
-        <a>Проекты</a>
-        <a>Блог</a>
-        <a>Контакты</a> 
-    </div>
-    <div>
-
-        @RenderBody()
-        <script>
-            getMessage()
-        </script>
-    </div>
-
-     
+    <div class="header-main"> 
+        <div class="header-style"> 
+            <a>Главное</a>
+            <a>Услуги</a>
+            <a>Проекты</a>
+            <a>Блог</a>
+            <a>Контакты</a> 
+        </div>
+        <div style="margin-left:210px;">  
+            @RenderBody() 
+        </div> 
+   </div>
 </body>
 </html>

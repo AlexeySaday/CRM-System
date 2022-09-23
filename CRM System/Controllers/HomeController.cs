@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CRM_System.IDataModel;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CRM_System.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger _logger; 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ILogger _logger;
+        private readonly IAppData data;
+        public HomeController(ILogger<HomeController> logger, IAppData appdata)
         {
+            this.data = appdata;
             _logger = logger;
         }
         public IActionResult Index()
@@ -14,6 +17,7 @@ namespace CRM_System.Controllers
             _logger.LogCritical("----->Все хорошо");
             return View();
         }
+         
     }
     
 }
