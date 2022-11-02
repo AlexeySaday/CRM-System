@@ -46,3 +46,12 @@ C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\obj\Debug\net6.0\
 C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\obj\Debug\net6.0\CRM System.pdb
 C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\obj\Debug\net6.0\CRM System.genruntimeconfig.cache
 C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\obj\Debug\net6.0\ref\CRM System.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\obj\Debug\net6.0\CRM System.csproj.CopyComplete

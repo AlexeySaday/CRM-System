@@ -2,14 +2,10 @@
 {
     public class Message
     {
-        public string Id { get; }
+        public int Id { get; set; }
         public string Name { get; set; }
-        public string MessageText { get; set; }
-        public Message(string name, string messageText)
-        {
-            Id = Guid.NewGuid().ToString();
-            Name = name;
-            MessageText = messageText;
-        }
+        public string Text { get; set; } 
+        public string AppDate { get; set; }
+        public string Contact { get; set; }
     }
 }
