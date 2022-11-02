@@ -8,6 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CRM_System
 build_property.RootNamespace = CRM_System
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Hp\source\repos\WebApplication1\CRM-System\CRM System\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -28,5 +29,27 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hp/source/repos/WebApplication1/CRM-System/CRM System/Views/_ViewStart.cshtml]
+=======
+build_property.ProjectDir = C:\Users\Hp\Source\Repos\CRM-System\CRM System\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hp\Source\Repos\CRM-System\CRM System
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hp/Source/Repos/CRM-System/CRM System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Source/Repos/CRM-System/CRM System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Source/Repos/CRM-System/CRM System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Source/Repos/CRM-System/CRM System/Views/_ViewStart.cshtml]
+>>>>>>> c4db803028c227f8b0b15ad5ea5d9b9c8c74a9c3
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\CRM System.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\CRM System.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\obj\\",
+=======
+    "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\CRM System.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\CRM System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\CRM System.csproj",
+        "projectName": "CRM System",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\CRM System.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\obj\\",
+>>>>>>> c4db803028c227f8b0b15ad5ea5d9b9c8c74a9c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

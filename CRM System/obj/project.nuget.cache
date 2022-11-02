@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1PR83fosNPegG2zDKt4setax0rwYB4MXNXOh8vEJjTfPnCgBxCBO8i7Cp+apZ4TaO1eLY7hTwDR2k3wXs9z9Gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\CRM System.csproj",
@@ -26,5 +27,11 @@
     "C:\\Users\\Hp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "uY8K0TdwlX1SLXKZdOVEYepWQQQMQd8mL3WwvfeMZsCrx+CX/QG/xXtQXZDwEqXbLMPJ2YVP6+aeFRQ9vfOvSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Source\\Repos\\CRM-System\\CRM System\\CRM System.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> c4db803028c227f8b0b15ad5ea5d9b9c8c74a9c3
   "logs": []
 }
