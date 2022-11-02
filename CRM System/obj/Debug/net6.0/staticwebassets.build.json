@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gja5YydYfHJ3BYWFKpFFwkRVstUp2Wg0q/iHmfO4rEk=",
+  "Hash": "+bNwKYFkcHTZf0sgO4J0Ad6UVceMFPz85aLsnyHy2L4=",
   "Source": "CRM System",
   "BasePath": "_content/CRM System",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRM System\\wwwroot",
       "Source": "CRM System",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\wwwroot\\",
       "BasePath": "_content/CRM System",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\css\\Style.css",
+      "Identity": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\wwwroot\\css\\Style.css",
       "SourceId": "CRM System",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\wwwroot\\",
       "BasePath": "_content/CRM System",
       "RelativePath": "css/Style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\js\\ApiScript.js",
+      "Identity": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\wwwroot\\js\\ApiScript.js",
       "SourceId": "CRM System",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\CRM System\\CRM System\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\WebApplication1\\CRM-System\\CRM System\\wwwroot\\",
       "BasePath": "_content/CRM System",
       "RelativePath": "js/ApiScript.js",
       "AssetKind": "All",
